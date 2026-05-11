@@ -1,0 +1,13 @@
+Diogo Alves, Etec de Sapopemba - 27/04/2026
+
+Pode usar o XAMPP para importar o arquivo com os numeros (127_0_0_1), e o comando abaixo se nao tiver ja tiver a biblioteca instalada. Minha ideia foi para quando voce clicar no iniciar.bat as coisas ocorram automaticamente, caso as dependencias estiverem funcionando.
+
+Voce pode instalar no diretorio da pasta (system-alves), pra funcionar depois:
+
+pip install mysql-connector-python (EXECUTE COMO ADMINISTRADOR NO CMD)
+
+- Colocar a pasta system.alves (raiz) no htdocs;
+- XAMPP, comandos de Apache e MySql rodando com o DB (127_0_0_1) importado no PhpMyAdmin, avisando que deu erro;
+- Comando listado acima funcionando;
+- Pasta com todos os arquivos;
+- O iniciar.bat deve funcionar.
